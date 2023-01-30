@@ -1,0 +1,18 @@
+2023/01/30 05:09:20 [Info] Dest folder "F:\BackUp\3D Printable Models" doesn't exists
+2023/01/30 05:09:20 [Info] Success: Copied folder "D:\Archivos\3D Printable Models" to "F:\BackUp\3D Printable Models"
+2023/01/30 05:09:20 [Info] Dest folder "F:\BackUp\Corsair Profiles" doesn't exists
+2023/01/30 05:09:20 [Info] Success: Copied folder "D:\Archivos\Corsair Profiles" to "F:\BackUp\Corsair Profiles"
+2023/01/30 05:09:20 [Info] Dest folder "F:\Archivos\Juegos Saves\Tarkov\Battlestate Games" doesn't exists
+2023/01/30 05:09:20 [Info] Success: Copied folder "C:\Users\Lluc76\AppData\Roaming\Battlestate Games" to "F:\Archivos\Juegos Saves\Tarkov\Battlestate Games"
+2023/01/30 05:09:20 [Info] Dest folder "F:\Archivos\Juegos Saves\GTA V" doesn't exists
+2023/01/30 05:09:21 [Info] Success: Copied folder "C:\Users\Lluc76\Documents\Rockstar Games\GTA V" to "F:\Archivos\Juegos Saves\GTA V"
+2023/01/30 05:09:21 [Info] Dest folder "F:\Archivos\Juegos Saves\GTA San Andreas" doesn't exists
+2023/01/30 05:09:21 [Info] Success: Copied folder "C:\Users\Lluc76\Documents\Rockstar Games\GTA San Andreas" to "F:\Archivos\Juegos Saves\GTA San Andreas"
+2023/01/30 05:09:21 [Info] Dest folder "F:\Archivos\Juegos Saves\League of Legends" doesn't exists
+2023/01/30 05:09:21 [Info] Success: Copied folder "C:\Riot Games\League of Legends\Config" to "F:\Archivos\Juegos Saves\League of Legends"
+2023/01/30 05:09:21 [Info] Dest file "F:\BackUp\Bookmarks" doesn't exists
+2023/01/30 05:09:21 [Info] Created parent folder "F:\BackUp"
+2023/01/30 05:09:21 [Info] Success: Copied "C:\Users\Lluc76\AppData\Roaming\Opera Software\Opera GX Stable\Bookmarks" to "F:\BackUp\Bookmarks"
+2023/01/30 05:09:21 [Info] Git is installed
+2023/01/30 05:09:21 [Info] Initialized empty Git repository in F:/Archivos/.git/
+2023/01/30 05:09:21 [Info] Commited at "F:\Archivos"
