@@ -2,12 +2,13 @@
 $scriptLocation = Get-Location
 $Logfile = "$scriptLocation\backup.log"
 $csvFile = "$scriptLocation\paths.csv"
+$ErrorView = 'CategoryView'
 
 # Git Configuration
 $EnableGit = $True
-$GitDir = @('F:\Archivos')
-$GitName = "GitName"
-$GitEmail = "your@email.com"
+$GitDir = @('E:\BackUp')
+$GitName = "YourName"
+$GitEmail = "Your@Email.com"
 $GitBranch = "backup"
 
 function StartGit
@@ -34,10 +35,10 @@ function StartGit
     # Run Git's procedure foreach specified folder
     foreach ($git in $GitDir)
     {
+        $date = (Get-Date).toString("yyyy/MM/dd HH:mm:ss")
         # If git is not initialized
         if (!(Test-Path -Path "$git\.git" -PathType container))
-        {
-            $date = (Get-Date).toString("yyyy/MM/dd HH:mm:ss")
+        {            
             Set-Location $git
             WriteLog "[Info] $(git init)"
             if (!($?))
